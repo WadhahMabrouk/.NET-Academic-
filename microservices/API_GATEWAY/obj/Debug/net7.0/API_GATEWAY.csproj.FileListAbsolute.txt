@@ -1,0 +1,84 @@
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\appsettings.json
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\API_GATEWAY.exe
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\API_GATEWAY.deps.json
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\API_GATEWAY.runtimeconfig.json
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\API_GATEWAY.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\API_GATEWAY.pdb
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\staticwebassets\msbuild.API_GATEWAY.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\staticwebassets\msbuild.build.API_GATEWAY.props
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API_GATEWAY.props
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API_GATEWAY.props
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\scopedcss\bundle\API_GATEWAY.styles.css
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.csproj.CopyComplete
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\refint\API_GATEWAY.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.pdb
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\obj\Debug\net7.0\ref\API_GATEWAY.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\Ocelot.json
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\API_GATEWAY\bin\Debug\net7.0\Ocelot.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\refint\API_GATEWAY.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.pdb
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\appsettings.Development.json
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\appsettings.json
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\Ocelot.json
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\API_GATEWAY.exe
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\API_GATEWAY.deps.json
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\API_GATEWAY.runtimeconfig.json
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\API_GATEWAY.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\API_GATEWAY.pdb
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\FluentValidation.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\Ocelot.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.csproj.AssemblyReference.cache
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.AssemblyInfoInputs.cache
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.AssemblyInfo.cs
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.csproj.CoreCompileInputs.cache
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.MvcApplicationPartsAssemblyInfo.cs
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.MvcApplicationPartsAssemblyInfo.cache
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\staticwebassets.build.json
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\staticwebassets.development.json
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\staticwebassets\msbuild.API_GATEWAY.Microsoft.AspNetCore.StaticWebAssets.props
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\staticwebassets\msbuild.build.API_GATEWAY.props
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API_GATEWAY.props
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API_GATEWAY.props
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\staticwebassets.pack.json
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\scopedcss\bundle\API_GATEWAY.styles.css
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.csproj.CopyComplete
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\API_GATEWAY.genruntimeconfig.cache
+C:\wetransfer_microservices-rar_2023-12-10_1215\microservices\API_GATEWAY\obj\Debug\net7.0\ref\API_GATEWAY.dll

@@ -1,0 +1,156 @@
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\appsettings.json
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\MoviesProject.exe
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\MoviesProject.deps.json
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\MoviesProject.runtimeconfig.json
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\MoviesProject.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\MoviesProject.pdb
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Humanizer.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\MoviesProject.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\MoviesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\MoviesProject.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\MoviesProject.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\MoviesProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\MoviesProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\MoviesProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\staticwebassets\msbuild.MoviesProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\staticwebassets\msbuild.build.MoviesProject.props
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MoviesProject.props
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MoviesProject.props
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\scopedcss\bundle\MoviesProject.styles.css
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\MoviesProject.csproj.CopyComplete
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\MoviesProject.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\refint\MoviesProject.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\MoviesProject.pdb
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\MoviesProject.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\obj\Debug\net7.0\ref\MoviesProject.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\USER\OneDrive\Bureau\Languages for programming\GI3\.NET\MoviesProject\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\appsettings.Development.json
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\appsettings.json
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\MoviesProject.exe
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\MoviesProject.deps.json
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\MoviesProject.runtimeconfig.json
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\MoviesProject.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\MoviesProject.pdb
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\AutoMapper.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Azure.Core.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Azure.Identity.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Humanizer.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\System.CodeDom.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\System.Memory.Data.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\MoviesProject.csproj.AssemblyReference.cache
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\MoviesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\MoviesProject.AssemblyInfoInputs.cache
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\MoviesProject.AssemblyInfo.cs
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\MoviesProject.csproj.CoreCompileInputs.cache
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\MoviesProject.MvcApplicationPartsAssemblyInfo.cs
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\MoviesProject.MvcApplicationPartsAssemblyInfo.cache
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\staticwebassets.build.json
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\staticwebassets.development.json
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\staticwebassets\msbuild.MoviesProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\staticwebassets\msbuild.build.MoviesProject.props
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MoviesProject.props
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MoviesProject.props
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\staticwebassets.pack.json
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\scopedcss\bundle\MoviesProject.styles.css
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\MoviesProject.csproj.CopyComplete
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\MoviesProject.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\refint\MoviesProject.dll
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\MoviesProject.pdb
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\MoviesProject.genruntimeconfig.cache
+C:\wetransfer_microservices-rar_2023-12-10_1215\MoviesProject\MoviesProject\obj\Debug\net7.0\ref\MoviesProject.dll
